@@ -9,4 +9,4 @@
 - react-icons
 - sass
 
-!()[screen.gif]# Toolkit_JobApp
+!()[screen.gif]
